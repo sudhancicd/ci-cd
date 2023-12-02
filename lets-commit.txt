@@ -3,3 +3,4 @@ Hello DevOps Class..
 Hi, I'm updating file saving to new branch remotely from different terminal. -kevin
 I tried to pull this from new branch and had issues.  Used 'git reset --hard <repo full SHA>' and it worked! -kevin
 I add Linux terminal. After copying to .ssh needed to chmod 600 id_rsa so private key only readable by me. Also, used "git pull origin k_branch" -Kevin
+Using cicd computer I'm updating -kevin
